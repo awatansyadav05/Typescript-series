@@ -1,0 +1,29 @@
+//How can you install the typescript ?
+npm i typescript --g
+(g means its install the globally)
+
+//How can you create the tsconfig.json file?
+npx tsc --init 
+
+How can i run the typescript file?
+tsc filename.ts (app.ts)
+
+How can you autosave the ts file to the js?
+tsc --watch
+
+LECTURE 1
+Typescript is a syntactic superset of javascript which adds static typing
+This means that typescript adds syntax on top of javascript, allowing developers to add types.
+TypeScript allows specifying the types of data being passed around within the code, and has the ability to report errors when the types don't match.
+Typescript uses compile time type checking, it means it checks if the specified types match before running the code, not while running the code.
+
+
+TypeScript Simple Types
+primitives means without the {} [] () brackets
+@boolean -- true or false values
+@number -- whole numbers and floating point values
+@string -- text values like "Typescript rocks"
+
+There are two more 2 common primitives in later used in version of javascript and typescript
+@bigint -- same as @number but allows larger values of negative and positive number
+@symbol -- used to globally unique identifier.
