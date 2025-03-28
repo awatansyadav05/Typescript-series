@@ -27,3 +27,10 @@ primitives means without the {} [] () brackets
 There are two more 2 common primitives in later used in version of javascript and typescript
 @bigint -- same as @number but allows larger values of negative and positive number
 @symbol -- used to globally unique identifier.
+
+
+DATATYPES:
+//primtive types (number,strings,boolean)
+#in this we declared the number and string as var , let and const 
+in typescript when you declared the string or number when you hover the mouse on it, It will show the datatype whereas,
+in javascript it will not show
