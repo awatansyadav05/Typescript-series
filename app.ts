@@ -88,8 +88,10 @@ fghj();
 console.log(
 "hey"
 );
-
 // Here you can see that log statement is not got highlighted as we have applied that never statement since script will not run once 'Never' is used
+
+
+
 
 
 
