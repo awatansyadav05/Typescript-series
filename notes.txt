@@ -34,3 +34,13 @@ DATATYPES:
 #in this we declared the number and string as var , let and const 
 in typescript when you declared the string or number when you hover the mouse on it, It will show the datatype whereas,
 in javascript it will not show
+
+LECTURE 2: About type inference and type aliases 
+refer file type_aliases.ts and type_inference.ts
+
+LECTURE 3: Classes and Objects (refer Objects_classes.ts file)
+Class: class is like that blueprint. It defines how an object should look and behave.
+Object : Actual thing made from the blueprint. 
+Constructers 
+--> How it created
+--> How its works
