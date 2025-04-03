@@ -44,3 +44,13 @@ Object : Actual thing made from the blueprint.
 Constructers 
 --> How it created
 --> How its works
+--> Use of making Constructers
+
+LECTURE 4: This keyword
+--> Use of this keyword
+--> Its syntax
+
+Access Modifiers
+--> private 
+--> public
+--> protected
