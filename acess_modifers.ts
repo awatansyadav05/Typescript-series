@@ -57,6 +57,6 @@ class laptopmakermodel extends laptopmaker{
 }
 
 let g1 = new laptopmakermodel();
-// g1.name = "some other "
+// g1.name = "some other name "
 //Here it will show the error while accessing the name because our class is protected but if we change the class name in that class we can change it and also in subclass also.
 // we usually don't use protected class. 

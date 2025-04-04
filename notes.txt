@@ -54,3 +54,11 @@ Access Modifiers
 --> private 
 --> public
 --> protected
+
+LECTURE 5: Optional Properties
+Parameter Properties
+Getter and Setter 
+static
+abstract classes and Objects
+
+LECTURE 6 : FUNCTIONS
