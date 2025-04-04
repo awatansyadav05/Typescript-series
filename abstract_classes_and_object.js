@@ -33,6 +33,7 @@ var paytm = /** @class */ (function (_super) {
     }
     return paytm;
 }(Payments));
+// Another example where to use Animal class extends its Dog
 var Animal = /** @class */ (function () {
     function Animal() {
     }

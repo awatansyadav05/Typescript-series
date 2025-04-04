@@ -62,3 +62,13 @@ static
 abstract classes and Objects
 
 LECTURE 6 : FUNCTIONS
+Functions types
+Functions overriding
+Generics 
+--> Generics interface
+--> Generics classes
+How to import and export in ts
+
+Lecture 7 : TypeCasting | TypeInterface | TypeAssertion
+
+

@@ -14,6 +14,7 @@ class paytm extends Payments{
 
 }
 
+// Another example where to use Animal class extends its Dog
 abstract class Animal {
   abstract makeSound(): void;
 
